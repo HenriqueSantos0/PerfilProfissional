@@ -11,7 +11,7 @@
 - Navegue até Kay Pair.
 - Create Key.
 - Defina o nome da chave e o formato(.pem ou .ppk).
-### conferir se a IAC está em bucket AWS e conferir o caminho até esse bucket.
+### Conferir se a IAC está em bucket AWS e conferir o caminho até esse bucket.
 - Navegiue até S3.
 - Abra o bucket e confira.
 - Caso não tenha um bucket com a IAC, ele deve ser criado e o arquivo deve ser subido para o bucket.
